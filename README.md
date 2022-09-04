@@ -6,7 +6,7 @@
 # Requirements
     Python3.7+
     torch & torchvision
-#Usage
+# Usage
 for training
 train.py --config train_config_path
 for testing
