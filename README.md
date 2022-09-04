@@ -3,5 +3,6 @@
 
 ![Figure 1. The framework of proposed 3D-AEGAN](framework.png 'Figure 1. The  framework of proposed 3D-AEGAN')
 
-# Usage 
-
+# Requirements
+    Python3.7+
+    torch & torchvision
