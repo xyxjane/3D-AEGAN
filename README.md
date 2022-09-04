@@ -8,7 +8,9 @@
     torch & torchvision
 # Usage
 For training
+
     train.py --config train_config_path
 For testing
+
     predict.py --config test_config_path
 
